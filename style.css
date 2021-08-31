@@ -9,6 +9,7 @@ header {
     margin-bottom: 20px;
     display: flex;
     background-color: #2A00B2;
+    align-items: center;
 }
 
 .button {
